@@ -197,5 +197,6 @@
     "AGS Script": "#B9D9FF", 
     "Dogescript": "#cca760", 
     "nesC": "#94B0C7",
-    "PowerShell": "#012456"
+    "PowerShell": "#012456",
+    "Batchfile": "#C1F12E"
 }
